@@ -4,6 +4,7 @@
   HTML & CSS
 ## Author :
   Jawwad Bagwan
-## Email: jawwadbagwan15@gmail.com
+## Email: 
+  jawwadbagwan15@gmail.com
 ## Link :
   url: https://github.com/Jawwad-Bagwan/Spotify-Clone
